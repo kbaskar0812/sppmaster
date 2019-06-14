@@ -1,2 +1,2 @@
 initial commit
-feature release 2019.06.0
+feature release 2019.06.0 -V2
