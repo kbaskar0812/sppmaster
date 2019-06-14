@@ -1,7 +1,4 @@
 initial commit
-<<<<<<< HEAD
 feature release 2019.06.0
 feature release 2019.08.0
-=======
-feature release 2019.06.0 -V2
->>>>>>> feature/2019.06.0
+release 2019.06.0
